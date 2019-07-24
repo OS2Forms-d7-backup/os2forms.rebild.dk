@@ -1,0 +1,3 @@
+[submodule "public_html/profiles/os2forms"]
+	path = public_html/profiles/os2forms
+	url = git@github.com:OS2Forms/os2forms_profile.git
